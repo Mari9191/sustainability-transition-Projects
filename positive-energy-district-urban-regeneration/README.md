@@ -7,7 +7,7 @@ The work addresses PEDs as **complex urban systems**, integrating energy, public
 
 ---
 
-## 📌 Project Context
+##  Project Context
 
 Positive Energy Districts are a key pillar of the European energy transition strategy, aiming to transform urban areas into climate-neutral and energy-positive environments.
 
@@ -64,7 +64,7 @@ The emphasis is placed on **integrated planning and coordination**, rather than 
 
 ---
 
-## 📄 Project Output
+##  Project Output
 
 - **Project Report**:  
   `GROUP_D_PORTFOLIO_BIP_PED_2023.pdf`  
@@ -87,14 +87,14 @@ This project was developed as a **group academic project** within an internation
 
 ---
 
-## 👤 Author
+##  Author
 
 **Marzieh Mirzaei**  
 Urban Sustainability & Energy Systems Analysis  
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - This repository is intended for **educational and portfolio purposes**  
 - The project focuses on **urban-scale sustainability and planning concepts**, not software development  
