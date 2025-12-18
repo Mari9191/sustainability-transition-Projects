@@ -61,7 +61,7 @@ The emphasis is placed on **decision quality, transparency, and reasoning**, rat
 
 ---
 
-## 📄 Project Output
+##  Project Output
 
 - **Project Report**:  
   `GROUP04_PORTFOLIO.pdf`  
@@ -85,7 +85,7 @@ The documentation reflects collaborative work and collective analysis.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Marzieh Mirzaei**  
 Sustainability & Decision-Making Analysis
@@ -93,7 +93,7 @@ Background in sustainability, energy systems, and data-driven decision-making.
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - This repository is intended for **educational and portfolio purposes**  
 - The project focuses on **methodology and reasoning**, not production-ready software  
