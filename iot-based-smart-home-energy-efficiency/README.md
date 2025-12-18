@@ -57,8 +57,12 @@ The emphasis is on **system-level thinking**, not low-level hardware design.
 
 ## 📄 Project Output
 
-- **Project Report**:  
-  `IoT_Based_Smart_Home_Energy_Efficiency.pdf`
+- **Smart HVAC IoT Energy Efficiency**  
+  `Smart_HVAC_System_IoT_Energy_Efficiency.pdf`
+
+- **System Architecture & Business Model**  
+  `Smart_HVAC_System_Architecture_and_Business_Model.pdf`
+
 
 ---
 
